@@ -537,12 +537,12 @@ https://docs.mapbox.com/api/navigation/isochrone/
 
 ```{r, echo=FALSE}
 # Mapbox token
-# my_token <- "INSERT YOUR TOKEN HERE"
+ my_token <- "INSERT YOUR TOKEN HERE"
 ```
 
 
 ```{r }
-#my_token <- INSERT YOUR TOKEN HERE
+my_token <- my_token
 ```
 ```{r}
 # Count High RTs cases by Emergency Units
